@@ -4,7 +4,7 @@ Para este desafio de projeto da DIO, eu utilizei o Docker Compose para executar 
 
 ## Criação
 
-Criação do arquivo YML com as definições de um servidor Apache (httpd) e uma pasta chamada "website", onde os arquivos da aplicação web estarão.
+Criação do arquivo YML com as definições de um servidor Apache (httpd) e uma pasta chamada "website", onde estão os arquivos da aplicação web.
 
 ## Requisitos para criação desta aplicação web:
 
